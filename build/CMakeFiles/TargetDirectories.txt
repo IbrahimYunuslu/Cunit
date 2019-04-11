@@ -1,0 +1,4 @@
+/home/ibrahim/Desktop/test/build/CMakeFiles/rebuild_cache.dir
+/home/ibrahim/Desktop/test/build/CMakeFiles/edit_cache.dir
+/home/ibrahim/Desktop/test/build/CMakeFiles/testing.dir
+/home/ibrahim/Desktop/test/build/CMakeFiles/test.dir
